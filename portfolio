@@ -1,0 +1,124 @@
+<html>
+<head>
+    <tittle><b>My personal portfolio</b></tittle><br>
+
+   
+    <style>
+
+
+
+html
+{
+margin:0;
+padding:0
+}
+
+header
+{
+width:100vw;
+height:80px;
+position:scroll;
+top:0;
+background-color:white;
+border-bottom:1x solid red;
+z-index:1;
+}
+
+nav
+{
+height:100%;
+display:flex;
+justify-content:space-evenly;
+align-items:center;
+overflow:hidden;
+}
+
+.nav-link
+{
+background=size:cover;
+}
+
+#header p
+{
+font-size:25px;
+color:red;
+padding-top:5px;
+margin:0;
+font-weight:bold;
+text-align:center;
+}
+
+
+#header img
+{
+display:block;
+width:80px;
+height:8-px;
+margin:auto;
+}
+
+</style>
+</head>
+
+<body>
+    <header>
+      <nav id="navbar">
+ <a href="#" class="nav=link">About Me</a>
+ <a href="#work" class="nav-link">My Project</a>
+ <a href="#Skills" class="nav-link">My Skills</a>
+From Sheetal Gajbhiye to Everyone 02:17 PM
+<p> I believe in "Learning together,growing together"</p>
+</div>
+
+
+<div class="section">
+<h1 id=work><span>My Project</span></h1>
+<div class="gallery item">
+<img class="gallery-image" src=C:"\Users\irg\Desktop\download.png" alt="Image processing using matlab">
+</div>
+
+<div class="gallery item">
+<img class="gallery-image" src=C:"\Users\irg\Desktop\download(1).png" alt="Led glow exersice">
+</div>
+    </div>
+
+   
+<div class="section">
+     <h1 id=Skills><span>My skills</span></h1>
+ <ul>
+ <li>Html</li><br>
+ <li>C++</li><br>
+ <li>Selenium Testing</li><br>
+ <li>Java</li><br>
+ </ul>
+</div>
+
+
+<div class="section">
+<h1 id=Contact><span>Contact Details</span></h1>
+<form action="mailto:rsheetalgajbhiye@gmail.com" method="post" enctype="text/plain">
+<input name="name" placeholder="Name" type="text" required/><br>
+<input name="email" placeholder="Email" type="email" required/><br>
+<textarea name="message" placeholder="Message" required></textarea><br>
+<input type="submit" value="send" class="submit"/>
+</form>
+
+</div>
+
+<di
+value="send" class="submit"/>
+</form>
+
+</div>
+
+<div class="section" id="Contacts">
+<h1><Follow Me<h1>
+
+<div>
+<a href="http://facebook.com/"><img alt="Facebook link" src="https://www.sololearn.com/upload/icons/facebook.png"/>
+</div>
+</div>
+
+
+</body>
+</html>
